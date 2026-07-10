@@ -15,6 +15,7 @@ format:
     # controls: true
     # progress: true
     # transition: fade
+output-file: index.html
 execute:
   echo: false
   message: false
